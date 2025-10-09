@@ -11,8 +11,10 @@ Using Rainmeter anyone can put this gif in desktop background / above the taskba
 2.  Extract the `.rar` file. You should now have a folder named `Evernight`.
 3.  Move the entire `Evernight` folder into your Rainmeter skins directory, which is usually located at:
     `C:\Users\YOUR_USERNAME\Documents\Rainmeter\Skins`
-4.  Open the **Manage Rainmeter** window, click the **"Refresh all"** button at the bottom left, and then load the skin.
-5.  <img width="943" height="674" alt="image" src="https://github.com/user-attachments/assets/ded5bcef-f92b-4cd1-be04-1df548345ca3" />
+4.  Close the Rainmeter and Open the **Manage Rainmeter** window again, click the **"Refresh all"** button at the bottom left, and then load the skin.
+    <img width="943" height="674" alt="image" src="https://github.com/user-attachments/assets/ded5bcef-f92b-4cd1-be04-1df548345ca3" />
+    
+5. Co ordinates can be varied by dragging the image anywhere on the screen and others can be changed based onyour needs in Rainmeter
 
 
 ## Credits & Disclaimer
