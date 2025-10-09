@@ -15,7 +15,8 @@ Using Rainmeter anyone can put this gif in desktop background / above the taskba
 
     <img width="943" height="674" alt="image" src="https://github.com/user-attachments/assets/ded5bcef-f92b-4cd1-be04-1df548345ca3" />
     
-5. Co ordinates can be varied by dragging the image anywhere on the screen and others can be changed based onyour needs in Rainmeter
+5. Co ordinates can be varied by dragging the image anywhere on the screen and others can be changed based onyour needs in Rainmeter.
+6. As for the Position if you use **TopMost** you can see the evernight gif above the opened software/games.
 
 
 ## Credits & Disclaimer
