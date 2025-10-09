@@ -1,5 +1,7 @@
 # Evernight - Animated Rainmeter Skin
 
+![Image](https://github.com/user-attachments/assets/8df0c43a-d988-43c8-aa37-ac0994347892)
+
 A floating, animated Rainmeter skin featuring the character Seele (Evernight) from the game Honkai: Star Rail.
 
 ## Installation
