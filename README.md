@@ -1,8 +1,16 @@
-# EVERNIGHT-RAINMETER-SKIN-HSR
-A floating animated Rainmeter skin of Evernight From "Honkai Star Rail"
-Download and Extraact all the files to the Rainmeter SKINS folder
-Usually: (C:\Users\USER_NAME\Documents\Rainmeter\Skins)
-Then open Rainmeter and click refresh all then load the skin.
+# Evernight - Animated Rainmeter Skin
 
-CREDITS:
-This character GIF/Image belongs to Honkai Star Rail from HOYOVERSE. This is a fan creation skin not for commercial use.
+A floating, animated Rainmeter skin featuring the character Seele (Evernight) from the game Honkai: Star Rail.
+
+## Installation
+
+1.  Download the `Evernight.rar` file from this repository.
+2.  Extract the `.rar` file. You should now have a folder named `Evernight`.
+3.  Move the entire `Evernight` folder into your Rainmeter skins directory, which is usually located at:
+    `C:\Users\YOUR_USERNAME\Documents\Rainmeter\Skins`
+4.  Open the **Manage Rainmeter** window, click the **"Refresh all"** button at the bottom left, and then load the skin.
+
+## Credits & Disclaimer
+
+* **Artwork:** The character and all associated images belong to **HoYoverse**, the creators of *Honkai: Star Rail*.
+* This skin is a non-commercial fan creation.
